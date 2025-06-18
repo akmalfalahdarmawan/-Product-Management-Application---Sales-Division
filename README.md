@@ -70,6 +70,12 @@ datetime, os, sys (standard libraries)
 ├── README.md                  # Project documentation
 └── requirements.txt           # Dependencies
 
+## 📦 Installation
+
+To install required dependencies, run the following command:
+
+```bash
+pip install -r requirements.txt
 
 
 
