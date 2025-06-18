@@ -1,4 +1,4 @@
-!["Sales Division Product Management System Banner"](banner.github.jpeg)
+!["Sales Division Product Management System Banner"](banner.jpeg)
 
 
 
